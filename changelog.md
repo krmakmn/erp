@@ -11,12 +11,12 @@ ERP sistemi beta süreciyle yayına alınmıştır.
 
 ### Özellikler
 - Müşteri Yönetimi
-- - Müşteri ekleme, silme, düzenleme
+  - Müşteri ekleme, silme, düzenleme
   - Müşteri satış ekleme
   - Müşteri alış ekleme
   - Müşteri teklif hazırlama
   - Müşteriden tahsilat
-  - - Nakit
+    - Nakit
     - Kredi Kartı
     - Banka
     - Çek
