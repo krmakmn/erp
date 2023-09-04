@@ -15,7 +15,7 @@ ERP sistemi beta süreciyle yayına alınmıştır.
   - Müşteri satış ekleme
   - Müşteri alış ekleme
   - Müşteri teklif hazırlama
-  - Müşteriden tahsilat
+  - Müşteriden tahsilat/ödeme
     - Nakit
     - Kredi Kartı
     - Banka
@@ -28,3 +28,35 @@ ERP sistemi beta süreciyle yayına alınmıştır.
   - Hesap Ekstresi
   - Dökümanlar
   - Özet Tablolar
+ 
+- Tedarikçi Yönetimi
+  - Tedarikçi ekleme, silme, düzenleme
+  - Tedarikçi satış ekleme
+  - Tedarikçi alış ekleme
+  - Tedarikçi teklif hazırlama
+  - Tedarikçiden tahsilat/ödeme
+    - Nakit
+    - Kredi Kartı
+    - Banka
+    - Çek
+    - Senet
+    - Virman
+    - Borç / Alacak Fişi
+    - Bakiye Düzeltme
+  - Sanal Pos
+  - Hesap Ekstresi
+  - Dökümanlar
+  - Özet Tablolar
+ 
+- Depo Yönetimi
+- Ürün Yönetimi
+- Masraf Yönetimi
+- Alış İşlemleri
+- Satış İşlemleri
+- e-Fatura Süreçleri
+- Sanal Pos
+- Hesap Yönetimi
+- Çek Portföyü
+- Senet Portföyü
+- Sistem Raporları
+- Veritabanı Yedekleme
